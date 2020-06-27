@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Main_Project.SearchShowsPage" Title="Search "
+             x:Name="SearchShowPage">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="9*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="8*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+       
+
+
+        <BoxView x:Name="searchBoxBoarder" BackgroundColor="NavajoWhite" Grid.ColumnSpan="2"></BoxView>
+        <Entry x:Name="searchBox" Margin="20,0,0,0" Grid.Row="0" Grid.Column="0" TextColor="Gray" FontSize="20" Keyboard="Default"></Entry>
+        <Button x:Name="searchButton"  Text="Search" Clicked="SearchButtonClicked" Grid.Row="0" Grid.Column="1" BackgroundColor="DarkOrange" BorderColor="DarkSlateBlue" CornerRadius="20" TextColor="Gray"/>
+
+        <CollectionView x:Name="myCollectionView" ItemsSource="{Binding searchResults, Mode=OneWay}" Grid.Row="1" Grid.ColumnSpan="2" SelectionMode="Single" SelectionChanged="SelectedShowAsync">
+            <CollectionView.ItemsLayout>
+                <GridItemsLayout Orientation="Vertical" VerticalItemSpacing="5" HorizontalItemSpacing="20" Span="3"/>
+            </CollectionView.ItemsLayout>
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <AbsoluteLayout HeightRequest="250">
+                        <Grid AbsoluteLayout.LayoutBounds="1,1,1,1" AbsoluteLayout.LayoutFlags="All">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="9*"/>
+                                <RowDefinition Height="1*"/>
+                            </Grid.RowDefinitions>
+                            <Image Source="{Binding show.getImage}" Aspect="AspectFit" Grid.Row="0"/>
+                            <Label x:Name="showName" Text="{Binding show.Name}" FontSize="20" HorizontalTextAlignment="Center" Grid.Row="1" TextColor="Gray"/>
+                        </Grid>
+                        <ImageButton AbsoluteLayout.LayoutBounds="1,0,0.3,0.3" AbsoluteLayout.LayoutFlags="All" Source="{Binding SetFavouriteButtonSource, Mode=OneWay}" Aspect="AspectFit" Clicked="FavouriteButtonClicked" BackgroundColor="Transparent" Command="{Binding AddToFavourites}" CommandParameter="{Binding .}" ></ImageButton>
+                    </AbsoluteLayout>
+
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+        
+        <Label x:Name="noShowsFoundLabel" Text="No Shows Found" Grid.Column="0" Grid.Row="0" Grid.RowSpan="2" Grid.ColumnSpan="2" HorizontalOptions="Center" VerticalOptions="Center" FontSize="Large" TextColor="Gray"/>
+    </Grid>
+</ContentPage>

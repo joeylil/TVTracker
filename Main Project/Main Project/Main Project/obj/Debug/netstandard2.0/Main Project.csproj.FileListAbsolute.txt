@@ -1,0 +1,71 @@
+E:\tafe2020\mobile apps\Main Project\Main Project\Main Project\bin\Debug\netstandard2.0\NewFolder2\icons8-add-to-favorites-96.png
+E:\tafe2020\mobile apps\Main Project\Main Project\Main Project\bin\Debug\netstandard2.0\Main Project.deps.json
+E:\tafe2020\mobile apps\Main Project\Main Project\Main Project\bin\Debug\netstandard2.0\Main Project.dll
+E:\tafe2020\mobile apps\Main Project\Main Project\Main Project\bin\Debug\netstandard2.0\ref\Main Project.dll
+E:\tafe2020\mobile apps\Main Project\Main Project\Main Project\bin\Debug\netstandard2.0\Main Project.pdb
+E:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.csprojAssemblyReference.cache
+E:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\FavouritesPage.xaml.g.cs
+E:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\searchShowsPage.xaml.g.cs
+E:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\ShowInfoPage.xaml.g.cs
+E:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.AssemblyInfoInputs.cache
+E:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.AssemblyInfo.cs
+E:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\XamlC.stamp
+E:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.dll
+E:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\ref\Main Project.dll
+E:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.pdb
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project\bin\Debug\netstandard2.0\Main Project.deps.json
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project\bin\Debug\netstandard2.0\Main Project.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project\bin\Debug\netstandard2.0\ref\Main Project.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project\bin\Debug\netstandard2.0\Main Project.pdb
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.csprojAssemblyReference.cache
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\FavouritesPage.xaml.g.cs
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\searchShowsPage.xaml.g.cs
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\SettingsPage.xaml.g.cs
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\ShowInfoPage.xaml.g.cs
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.csproj.CoreCompileInputs.cache
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.AssemblyInfoInputs.cache
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.AssemblyInfo.cs
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\XamlC.stamp
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\ref\Main Project.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.pdb
+D:\downloads\Main Project\Main Project\Main Project\bin\Debug\netstandard2.0\Main Project.deps.json
+D:\downloads\Main Project\Main Project\Main Project\bin\Debug\netstandard2.0\Main Project.dll
+D:\downloads\Main Project\Main Project\Main Project\bin\Debug\netstandard2.0\ref\Main Project.dll
+D:\downloads\Main Project\Main Project\Main Project\bin\Debug\netstandard2.0\Main Project.pdb
+D:\downloads\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.csprojAssemblyReference.cache
+D:\downloads\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\downloads\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\FavouritesPage.xaml.g.cs
+D:\downloads\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\downloads\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\searchShowsPage.xaml.g.cs
+D:\downloads\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\SettingsPage.xaml.g.cs
+D:\downloads\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\ShowInfoPage.xaml.g.cs
+D:\downloads\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.csproj.CoreCompileInputs.cache
+D:\downloads\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.AssemblyInfoInputs.cache
+D:\downloads\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.AssemblyInfo.cs
+D:\downloads\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\XamlC.stamp
+D:\downloads\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.dll
+D:\downloads\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\ref\Main Project.dll
+D:\downloads\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.pdb
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project\bin\Debug\netstandard2.0\Main Project.deps.json
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project\bin\Debug\netstandard2.0\Main Project.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project\bin\Debug\netstandard2.0\ref\Main Project.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project\bin\Debug\netstandard2.0\Main Project.pdb
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.csprojAssemblyReference.cache
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\FavouritesPage.xaml.g.cs
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\searchShowsPage.xaml.g.cs
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\SettingsPage.xaml.g.cs
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\ShowInfoPage.xaml.g.cs
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.csproj.CoreCompileInputs.cache
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.AssemblyInfoInputs.cache
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.AssemblyInfo.cs
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\XamlC.stamp
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\ref\Main Project.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project\obj\Debug\netstandard2.0\Main Project.pdb

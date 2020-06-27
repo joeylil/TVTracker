@@ -1,0 +1,228 @@
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\e_sqlite3.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\App.xbf
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\MainPage.xbf
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Main Project.UWP.xr.xml
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Main Project.UWP.exe
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Main Project.UWP.pdb
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\resources.pri
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\AppxManifest.xml
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Core\AppxManifest.xml
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Core\Main Project.UWP.exe
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Main Project.UWP.build.appxrecipe
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\System.Runtime.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\SQLite-net.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_green.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\SQLitePCLRaw.core.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.Abstractions.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.Abstractions.pdb
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.pdb
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Main Project.dll
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Main Project.pdb
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Main Project.UWP.csprojAssemblyReference.cache
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\App.g.i.cs
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\App.g.cs
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\MainPage.g.i.cs
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\MainPage.g.cs
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\App.xaml
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\MainPage.xaml
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\App.xbf
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\MainPage.xbf
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Main Project.UWP.csproj.CoreCompileInputs.cache
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\XamlC.stamp
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Main Project.UWP.csproj.CopyComplete
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Plugin.SimpleAudioPlayer.pri.xml
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Main Project.UWP.exe
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Main Project.UWP.pdb
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\ResourceHandlingTask.state
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\priconfig.xml
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\priconfig.xml.intermediate
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\filtered.layout.resfiles
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\excluded.layout.resfiles
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\resources.resfiles
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\resources.resfiles.intermediate
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\pri.resfiles
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\pri.resfiles.intermediate
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\qualifiers.txt
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\ProjectArchitectures.txt
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160427180000000.json
+G:\tafe2020\mobile apps\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758264200000000.json
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\e_sqlite3.dll
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\App.xbf
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\MainPage.xbf
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Main Project.UWP.xr.xml
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Main Project.UWP.exe
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Main Project.UWP.pdb
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\resources.pri
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\AppxManifest.xml
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Core\AppxManifest.xml
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Core\Main Project.UWP.exe
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Main Project.UWP.build.appxrecipe
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\System.Runtime.dll
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\SQLite-net.dll
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_green.dll
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\SQLitePCLRaw.core.dll
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.Abstractions.dll
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.Abstractions.pdb
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.dll
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.pdb
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Main Project.dll
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\downloads\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Main Project.pdb
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Main Project.UWP.csprojAssemblyReference.cache
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\App.g.i.cs
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\App.g.cs
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\MainPage.g.i.cs
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\MainPage.g.cs
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\App.xaml
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\MainPage.xaml
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\App.xbf
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\MainPage.xbf
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Main Project.UWP.csproj.CoreCompileInputs.cache
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\XamlC.stamp
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Main Project.UWP.csproj.CopyComplete
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Plugin.SimpleAudioPlayer.pri.xml
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Main Project.UWP.exe
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Main Project.UWP.pdb
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\ResourceHandlingTask.state
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\priconfig.xml
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\priconfig.xml.intermediate
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\filtered.layout.resfiles
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\excluded.layout.resfiles
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\resources.resfiles
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\resources.resfiles.intermediate
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\pri.resfiles
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\pri.resfiles.intermediate
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\qualifiers.txt
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\ProjectArchitectures.txt
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160427180000000.json
+D:\downloads\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758264200000000.json
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\e_sqlite3.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\App.xbf
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\MainPage.xbf
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Main Project.UWP.xr.xml
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Main Project.UWP.exe
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Main Project.UWP.pdb
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\resources.pri
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\AppxManifest.xml
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Core\AppxManifest.xml
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Core\Main Project.UWP.exe
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Main Project.UWP.build.appxrecipe
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Newtonsoft.Json.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\System.Runtime.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\SQLite-net.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_green.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\SQLitePCLRaw.core.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Microsoft.Graphics.Canvas.winmd
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.Abstractions.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.Abstractions.pdb
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Plugin.SimpleAudioPlayer.pdb
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Essentials.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Essentials.pdb
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Core.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Core.pdb
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Platform.UAP.pdb
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Platform.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Xamarin.Forms.Xaml.pdb
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Main Project.dll
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\bin\x86\Debug\Main Project.pdb
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Main Project.UWP.csprojAssemblyReference.cache
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\App.g.i.cs
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\App.g.cs
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\MainPage.g.i.cs
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\MainPage.g.cs
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\App.xaml
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\MainPage.xaml
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\App.xbf
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\MainPage.xbf
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Main Project.UWP.csproj.CoreCompileInputs.cache
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\XamlC.stamp
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Main Project.UWP.csproj.CopyComplete
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Microsoft.UI.Xaml.pri.xml
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Plugin.SimpleAudioPlayer.pri.xml
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Xamarin.Essentials.pri.xml
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Xamarin.Forms.Platform.UAP.pri.xml
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Main Project.UWP.exe
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\Main Project.UWP.pdb
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\ResourceHandlingTask.state
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\priconfig.xml
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\priconfig.xml.intermediate
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\unfiltered.layout.resfiles
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\filtered.layout.resfiles
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\filtered.layout.resfiles.intermediate
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\excluded.layout.resfiles
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\excluded.layout.resfiles.intermediate
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\resources.resfiles
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\resources.resfiles.intermediate
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\pri.resfiles
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\pri.resfiles.intermediate
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\qualifiers.txt
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\qualifiers.txt.intermediate
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\ProjectArchitectures.txt
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636160427180000000.json
+D:\downloads\TvTrackerJosephDowden (1)\Main Project\Main Project\Main Project.UWP\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758264200000000.json

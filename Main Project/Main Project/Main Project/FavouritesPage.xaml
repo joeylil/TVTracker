@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Main_Project.FavouritesPage" Title="Favourites" IconImageSource="http://www.clker.com/cliparts/O/Z/4/Q/W/Q/favourite-md.png">
+    <ContentPage.Content>
+        <Grid>
+            <Label x:Name="noFavouritedShowsLabel" Text="Oops, you haven't favourited any shows yet!" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" FontSize="Large" IsVisible="False" Margin="10,0" TextColor="Gray"/>
+
+            <ListView RowHeight="250" x:Name="favouriteShowListView" ItemSelected="SelectedShowAsync" SelectionMode="Single" HasUnevenRows="False">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <AbsoluteLayout HeightRequest="250">
+                                <Grid Padding="0,0,0,5">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                        <RowDefinition/>
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition Width="3*"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Label Text="{Binding Path=Name}" Grid.Column="1" Grid.Row="0" FontSize="Medium" HorizontalTextAlignment="Center" FontAttributes="Bold" TextColor="Gray"/>
+                                    <Label Text="{Binding Path=Schedule.DisplayScheduleDays}" Grid.Column="1" Grid.Row="1" TextType="Html" TextColor="Gray"/>
+                                    <Label Text="{Binding Path=DisplayScheduleTime}" Grid.Column="1" Grid.Row="2" TextType="Html" TextColor="Gray"/>
+                                    <Label Text="{Binding Path=DisplayAirdate}" TextType="Html" Grid.Column="1" Grid.ColumnSpan="2" Grid.Row="3"  TextColor="Gray"/>
+                                    <Label Text="{Binding Path=GetAirSite}" TextType="Html" Grid.Column="1" Grid.Row="4" TextColor="Gray"/>
+                                    <StackLayout Orientation="Horizontal" Grid.Row="5" Grid.Column="1"  Grid.ColumnSpan="2" Margin="0,0,10,0">
+                                        <Label Text="{Binding Path=EpisodeCollection.Episodes[0].DisplayEpisode}" TextType="Html" HorizontalOptions="CenterAndExpand" HorizontalTextAlignment="Center" TextColor="Gray"/>
+                                        <Label Text="{Binding Path=GetCountryCode}" TextType="Html"  TextColor="Gray"/>
+                                    </StackLayout>
+                                    <Image Source="{Binding Path=Image.Medium}" Grid.Column="0" Grid.Row="0" Grid.RowSpan="4" Aspect="AspectFit" HorizontalOptions="StartAndExpand" VerticalOptions="StartAndExpand" Margin="5,0,0,0"/>
+                                </Grid>
+                                <ImageButton AbsoluteLayout.LayoutBounds="1,0,0.3,0.3" AbsoluteLayout.LayoutFlags="All" Source="{Binding Path=SetFavouriteButtonSource, Mode=OneWay}" Aspect="AspectFit" Clicked="FavouriteButtonClicked" BackgroundColor="Transparent" Command="{Binding AddToFavourites}" CommandParameter="{Binding .}" ></ImageButton>
+                            </AbsoluteLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
